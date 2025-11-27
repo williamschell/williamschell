@@ -13,3 +13,8 @@ Hello!!
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
     </a>
 </div>
+
+
+### Resume
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/file/d/1J2CIQ_v88yQVJNUD-CQlmdaUnk-JXZXk/view?usp=sharing" download>Download Here</a>
