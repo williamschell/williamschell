@@ -36,8 +36,9 @@ I am currently working on a roulette rogue-like game which will feature an anti-
 
 # GAMES!
 You can find all my games on my itch.io page, but I will also include descriptions and links here!
-Mira (https://duckzi8.itch.io/mira) : A short narrative sci-fi mystery. Play as Rea as she finds out what really happened to her mother, and how the planet of Rema truly works. 
-
+<div>
+  Mira (https://duckzi8.itch.io/mira) : A short narrative sci-fi mystery. Play as Rea as she finds out what really happened to her mother, and how the planet of Rema truly works. 
+</div>
 ### Resume
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/file/d/1J2CIQ_v88yQVJNUD-CQlmdaUnk-JXZXk/view?usp=sharing" download>Download Here</a>
